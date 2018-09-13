@@ -6,9 +6,8 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I am currently a student in the Master of Data Science program at UBC. I have a BFA in Computer Graphics and Interactive Media and worked as an animator in the motion graphics industry for 15 years. My goal is to build a new career as a Data Scientist.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+### Contact me
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+[rachelkriggs@gmail.com](mailto:rachelkriggs@gmail.com)
