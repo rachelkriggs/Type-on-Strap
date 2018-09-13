@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
+url: "https://rachelkriggs.github.io"
+title: Rachel's alternate blog # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
@@ -29,32 +29,32 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "rachelkriggs"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/rachel-k-riggs/"  # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: # "rachelkriggs"
   vimeo:
   wordpress:
   youtube:
   
   # Sharing options
   share_buttons:
-    facebook: true
+    facebook: 
     twitter: true
-    google_plus: true
+    google_plus: 
     tumblr:
     pinterest:
     pocket:
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
